@@ -1,0 +1,21 @@
+C:\Users\HP\Desktop\3 курс\захист\dz1.5\dz1.5\bin\Debug\dz1.5.exe.config
+C:\Users\HP\Desktop\3 курс\захист\dz1.5\dz1.5\bin\Debug\dz1.5.exe
+C:\Users\HP\Desktop\3 курс\захист\dz1.5\dz1.5\bin\Debug\dz1.5.pdb
+C:\Users\HP\Desktop\3 курс\захист\dz1.5\dz1.5\obj\Debug\dz1.5.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\3 курс\захист\dz1.5\dz1.5\obj\Debug\dz1.5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3 курс\захист\dz1.5\dz1.5\obj\Debug\dz1.5.exe
+C:\Users\HP\Desktop\3 курс\захист\dz1.5\dz1.5\obj\Debug\dz1.5.pdb
+D:\dz1.5\dz1.5\bin\Debug\dz1.5.exe.config
+D:\dz1.5\dz1.5\bin\Debug\dz1.5.exe
+D:\dz1.5\dz1.5\bin\Debug\dz1.5.pdb
+D:\dz1.5\dz1.5\obj\Debug\dz1.5.csprojAssemblyReference.cache
+D:\dz1.5\dz1.5\obj\Debug\dz1.5.csproj.CoreCompileInputs.cache
+D:\dz1.5\dz1.5\obj\Debug\dz1.5.exe
+D:\dz1.5\dz1.5\obj\Debug\dz1.5.pdb
+C:\Users\Yorik\Desktop\dz1.5\dz1.5\bin\Debug\dz1.5.exe.config
+C:\Users\Yorik\Desktop\dz1.5\dz1.5\bin\Debug\dz1.5.exe
+C:\Users\Yorik\Desktop\dz1.5\dz1.5\bin\Debug\dz1.5.pdb
+C:\Users\Yorik\Desktop\dz1.5\dz1.5\obj\Debug\dz1.5.csprojAssemblyReference.cache
+C:\Users\Yorik\Desktop\dz1.5\dz1.5\obj\Debug\dz1.5.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\dz1.5\dz1.5\obj\Debug\dz1.5.exe
+C:\Users\Yorik\Desktop\dz1.5\dz1.5\obj\Debug\dz1.5.pdb
